@@ -1,5 +1,23 @@
 var flashcards = 
     {
+        "Lesson XXI":
+        [
+            {"question": "Word: bi\nModern examples: bicycle, biped, bilateral",
+             "answer": "two"
+            },
+            {"question": "Word: sub\nModern examples: submarine, submerge, subtract",
+             "answer": "under"
+            },
+            {"question": "Word: de\nModern examples: descend, deposit, deduce",
+             "answer": "down"
+            },
+            {"question": "Word: pre\nModern examples: predict, prepare, prelude",
+             "answer": "before"
+            },
+            {"question": "Word: super\nModern examples: supervise, superior, superb",
+             "answer": "over"
+            }
+        ],        
         "Lesson XX":
         [{"question": "Word: epithet",
           "answer": "a characterizing term"},
