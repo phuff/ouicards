@@ -1,5 +1,16 @@
 var flashcards = 
     {
+        "Lesson XXII":
+        [{"question": "countenance",
+          "answer": "facial expression"},
+         {"question": "profound",
+          "answer": "deep"},
+         {"question": "manifest",
+          "answer": "obvious"},
+         {"question": "prodigious",
+          "answer": "huge"},
+         {"question": "languor",
+          "answer": "weakness"}],
         "Lesson XXI":
         [
             {"question": "Word: bi\nModern examples: bicycle, biped, bilateral",
