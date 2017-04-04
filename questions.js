@@ -1,5 +1,16 @@
 var flashcards = 
     {
+        "Lesson XXIII": 
+        [{"question": "Stem: bene\nModern examples: benefit, benediction, benefactor",
+          "answer": "good"},
+         {"question": "Stem: son\nModern examples: sonorous, dissonance, sonnet",
+          "answer": "sound"},
+         {"question": "Stem: nov\nModern examples: novice, nova, innovation",
+          "answer": "new"},
+         {"question": "Stem: sangui\nModern examples: sanguine, sanguinary, consanguinity",
+          "answer": "blood"},
+         {"question": "Stem: cogn\nModern examples: cognizance, incognito, cognoscenti",
+          "answer": "know"}],
         "Lesson XXII":
         [{"question": "countenance",
           "answer": "facial expression"},
