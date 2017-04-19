@@ -1,5 +1,18 @@
 var flashcards = 
     {
+        "Lession XXIV":
+        [
+            {"question": "serene",
+             "answer": "calm"},
+            {"question": "acute",
+             "answer": "sharp"},
+            {"question": "grotesque",
+             "answer": "distorted"},
+            {"question": "condescend",
+             "answer": "to patronize"},
+            {"question": "odious",
+             "answer": "hateful"}
+        ],
         "Lesson XXIII": 
         [{"question": "Stem: bene\nModern examples: benefit, benediction, benefactor",
           "answer": "good"},
