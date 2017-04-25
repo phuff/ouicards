@@ -1,6 +1,19 @@
 var flashcards = 
     {
-        "Lession XXIV":
+        "Lesson XXV":
+        [
+            {"question": "Stem: ject\nModern examples: dejection, interject, conjecture",
+             "answer": "throw"},
+            {"question": "Stem: dorm\nModern examples: dormant, dormitory, dormer",
+             "answer": "sleep"},
+            {"question": "Stem: magn\nModern examples: magnificent, magnate, magnanimous",
+             "answer": "great"},
+            {"question": "Stem: ver\nModern examples: verify, veracity, verdict",
+             "answer": "true"},
+            {"question": "Stem: put\nModern examples: dispute, putative, reputation",
+             "answer": "think"}
+        ],
+        "Lesson XXIV":
         [
             {"question": "serene",
              "answer": "calm"},
