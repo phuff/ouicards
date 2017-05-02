@@ -1,5 +1,18 @@
 var flashcards = 
     {
+        "Lesson XXVI":
+        [
+            {"question": "exquisite",
+             "answer": "beautifully made"},
+            {"question": "clamor",
+             "answer": "outcry"},
+            {"question": "sublime",
+             "answer": "lofty"},
+            {"question": "tremulous",
+             "answer": "quivering"},
+            {"question": "allude",
+             "answer": "indirectly refer to"}
+        ],
         "Lesson XXV":
         [
             {"question": "Stem: ject\nModern examples: dejection, interject, conjecture",
