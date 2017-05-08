@@ -1,5 +1,18 @@
 var flashcards = 
     {
+        "Lesson XXVII":
+        [
+            {"question": "aqua\nModern examples: aquarium, aquatic, aqueduct",
+             "answer": "water"},
+            {"question": "audi\nModern examples: auditory, audience, audiophile",
+             "answer": "hear"},
+            {"question": "scrib\nModern examples: scribe, inscribe, describe",
+             "answer": "write"},
+            {"question": "cede\nModern examples: recede, precede, secede",
+             "answer": "go"},
+            {"question": "cise\nModern examples: excise, incisive, incisors",
+             "answer": "cut"}
+        ],
         "Lesson XXVI":
         [
             {"question": "exquisite",
