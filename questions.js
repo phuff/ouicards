@@ -1,5 +1,18 @@
 var flashcards = 
     {
+        "Lessin XXVIII":
+        [
+            {"question": "placid",
+             "answer": "calm"},
+            {"question": "singular",
+             "answer": "unique"},
+            {"question": "amiable",
+             "answer": "friendly"},
+            {"question": "incredulous",
+             "answer": "skeptical"},
+            {"question": "perplex",
+             "answer": "confuse"}
+        ],
         "Lesson XXVII":
         [
             {"question": "aqua\nModern examples: aquarium, aquatic, aqueduct",
