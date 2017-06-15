@@ -1,6 +1,19 @@
 var flashcards = 
     {
-        "Lessin XXVIII":
+        "Lesson XXIX":
+        [
+            {"question": "cred\nModern examples: incredulous, credo, credible",
+             "answer": "believe"},
+            {"question": "miss\nModern examples: missive, remiss, emission",
+             "answer": "send"},
+            {"question": "cide\nModern examples: regicide, homicide, fratricide",
+             "answer": "kill"},
+            {"question": "dict\nModern examples: edict, malediction, contradict",
+             "answer": "say"},
+            {"question": "bell\nModern examples: rebellion, bellicose, belligerent",
+             "answer": "war"}
+        ],
+        "Lesson XXVIII":
         [
             {"question": "placid",
              "answer": "calm"},
